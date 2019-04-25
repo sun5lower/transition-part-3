@@ -6,3 +6,5 @@ The transition should take 1 second and the timing function should be set to eas
 In future remember to use shrthand property "TRANSITION"
 
 https://transition-part-3-dustyblue.c9users.io/index.html
+
+https://sun5lower.github.io/transition-part-3/
